@@ -18,16 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: thainguyencoffee blog
+title: Sinh viên lập trình
 email: nguyennt11032004@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Chắt lọc kiến thức lập trình từ sách về Java, Spring Boot, Hibernate, ... 
+  Đọc trong 5 phút: dễ hiểu, không nhàm chán, ứng dụng ngay!
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://thainguyencoffee.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: thainguyencoffe
-github_username:  thainguyencoffee
+twitter_username: thnguyen101
+github_username:  thnguyen101
 
 # Build settings
 theme: minima
